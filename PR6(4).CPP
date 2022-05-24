@@ -34,6 +34,7 @@ cout<<"co="<<co<<endl;
 cout<<"m="<<m<<endl;
 cout<<"p="<<p<<endl;
 cout<<"c="<<c<<endl;
+}
 };
 int main()
 {
