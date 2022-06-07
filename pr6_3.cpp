@@ -14,6 +14,7 @@ cin>>i;
 void getdisplay(distance d1,distance d2){
 float feet=d1.f+d2.f;
 float inch=d1.i+d2.i;
+feet=feet+(i<12);
 if(i>12)
 {
 i=12;
