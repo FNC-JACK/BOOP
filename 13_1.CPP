@@ -27,8 +27,8 @@ return *this;
 
 int main()
 {
-person p1("ved",18);
-person p2("aman",100);
+person p1("JACK SPARROW",27);
+person p2("DAVY JONES",24);
 person p=p1.greater(p2);
 cout<<p.name<<p.age<<endl;
 return 0;
